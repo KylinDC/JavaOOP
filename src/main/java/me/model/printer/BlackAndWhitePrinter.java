@@ -1,4 +1,4 @@
-package printer;
+package main.java.me.model.printer;
 
 public class BlackAndWhitePrinter extends Printer {
     @Override

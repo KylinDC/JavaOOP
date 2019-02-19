@@ -1,4 +1,4 @@
-package chicken;
+package main.java.me.model.chicken;
 
 public class Main {
     public static void main(String[] args) {

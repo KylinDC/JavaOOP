@@ -1,4 +1,4 @@
-package printer;
+package main.java.me.model.printer;
 
 public class Printer {
     public void print() {

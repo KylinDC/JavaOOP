@@ -1,4 +1,4 @@
-package model;
+package main.java.me.model.student;
 
 public class Student {
     private String name;

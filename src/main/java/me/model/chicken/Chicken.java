@@ -1,4 +1,4 @@
-package chicken;
+package main.java.me.model.chicken;
 
 public abstract class Chicken {
     private double price;
