@@ -1,6 +1,6 @@
 package main.java.me.model.person;
 
-public class Test {
+public class Main {
 
     private Person person = new Person("1", "Tom", 21);
 
@@ -34,9 +34,9 @@ public class Test {
     }
 
     public static void main(String[] args) {
-        Test test = new Test();
-        test.personTest();
-        test.studentTest();
-        test.teacherTest();
+        Main main = new Main();
+        main.personTest();
+        main.studentTest();
+        main.teacherTest();
     }
 }
